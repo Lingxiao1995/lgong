@@ -1,18 +1,20 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "https://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
+Lingxiao:
+  name        : "Lingxiao Gong"
+  uri         : "https://lingxiao1995.github.io"
+  email       : "lgong4@ncsu.edu"
+  bio         : "Postdoc researcher at NC State University."
   avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+  twitter     : ""
+  google_plus : ""
+  academia    : "https://lingxiao1995.github.io"
+    
 
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+#Name2 Name2:
+#  name        : "Name2 Name2"
+#  email       : "name2@name2.com"
+#  bio         : "I ordered what?"
+#  avatar      : "bio-photo.jpg"
+#  twitter     : "name2"
+#  google_plus : "Name"
